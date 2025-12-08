@@ -2,18 +2,30 @@
 title: 🏠 Accueil
 layout: home
 hero:
-  name: FICHES.ME
-  text: Take you revision to the next level 🚀
+  name: #GO SAUVER MA SECONDE
+  text: Objectif réussir mon année dans mon lycée qui est plutôt...
   image:
     src: /logo.png
-    alt: Fiche's Logo
+    alt: smeax Logo
   actions:
     - theme: brand
-      text: 🖥️ Info
-      link: /info/
+      text: 📐 Math
+      link: /math/
     - theme: alt
-      text: 💸 Eco
-      link: /eco/
+      text: 📉 S.E.S
+      link: /ses/
+    - theme: alt
+      text: 🧪 Physique-Chimie
+      link: /physique/
+    - theme: alt
+      text: 🤓 Histoire-Géo
+      link: /histoire/
+    - theme: alt
+      text: 🗽 Anglais
+      link: /english/
+    - theme: alt
+      text: 🥖 Français
+      link: /french/
     - theme: alt
       text: ✨ Contribute
       link: /contribution/
