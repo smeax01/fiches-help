@@ -32,7 +32,7 @@ hero:
 features:
   - title: Feature A
     details: This frontend is not definitive
-  - title: Feature B
+  - title: Feature B  BBBBBBBBBBBBBBB
     details: We are still building this website
   - title: Feature C
     details: Thanks for your patience.
